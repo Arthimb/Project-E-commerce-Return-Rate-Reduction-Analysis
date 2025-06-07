@@ -1,5 +1,6 @@
-E-commerce Return Rate Reduction Analysis
-📌 Objective
+**E-commerce Return Rate Reduction Analysis**
+
+**📌 Objective**
 The objective of this project is to analyze product return patterns in an e-commerce business to identify:
 
 Key factors contributing to product returns.
@@ -8,14 +9,14 @@ Return rates by product category, geography, and marketing channel.
 
 High-risk products using predictive modeling.
 
-🛠️ Tools Used
+**🛠️ Tools Used**
 Python: Data cleaning, analysis, and logistic regression modeling.
 
 SQL: (Assumed for initial data extraction or querying if needed).
 
 Power BI: Visualization dashboard for presenting return risk insights.
 
-📊 Mini Guide
+**📊 Mini Guide**
 1. Data Cleaning and Preprocessing
 Dataset: superstore_return.xlsx
 
